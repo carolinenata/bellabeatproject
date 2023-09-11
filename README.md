@@ -2,6 +2,8 @@
 
 This is the final project from the course I took from Coursera (Google Data Analytics Course). For this project, I was assigned to be a data analyst for a fitness smartwatch company, Bellabeat.
 
+ You can view my SQL queries [here](https://github.com/carolinenata/bellabeatproject/blob/main/BellabeatSQL.sql).
+
 ## Background
 
 Bellabeat is a a tech company focusing on health products like smartwatch for women since 2013. Bellabeat has a huge potential to become a large player in the global smart device market. As a junior data analyst in this company, I am required to analyze Bellabeat’s fitness tracker app to find opportunities to grow. I am required to look into insights, trends and correlations on how the customers are using the app in order to improve Bellabeat’s marketing strategy.
@@ -99,7 +101,7 @@ The tools we are using for this data analysis are:
 
 ## Analyze
 
-After cleaning the data, I import it to SQL for analysis. You can view my SQL queries [here]((https://github.com/carolinenata/bellabeatproject/blob/main/BellabeatSQL.sql).  
+After cleaning the data, I import it to SQL for analysis. You can view my SQL queries [here](https://github.com/carolinenata/bellabeatproject/blob/main/BellabeatSQL.sql).  
 
 Here are some notable analysis we found:
 
