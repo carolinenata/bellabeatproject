@@ -179,30 +179,30 @@ View my Tableau Dashboard here in [Tableau Public](https://public.tableau.com/ap
 
 ## Act
 
-What are the trends identified?
-Sedentary minutes has the highest compared to lightly active minutes, very active minutes and fairly active minutes. We can assume that the customers of Fitbit are not active users and do not exercise often.
+### What are the trends identified?
+* Sedentary minutes has the highest compared to lightly active minutes, very active minutes and fairly active minutes. We can assume that the customers of Fitbit are not active users and do not exercise often.
 
-Customers are most active in the weekdays (Tuesday, Wednesday, Thursday) and less active on the weekends.
+* Customers are most active in the weekdays (Tuesday, Wednesday, Thursday) and less active on the weekends.
 
-Overweight people might sleep more, but they also spent more minutes and burn more calories per hour than Healthy Weight people. We learn that there is an attempt of trying to lose weight and leading a healthy lifestyle compared to Healthy Weight people.
+* Overweight people might sleep more, but they also spent more minutes and burn more calories per hour than Healthy Weight people. We learn that there is an attempt of trying to lose weight and leading a healthy lifestyle compared to Healthy Weight people.
 
-Users with customer ID 81 is the most active Fitbit user. Compared to the rest of the respondents, he uses the app 81 times while the rest are around 31 times. There might be insider bias because the background of these respondents is not transparent. There is no survey questions indicating their demography and background.
+* Users with customer ID 81 is the most active Fitbit user. Compared to the rest of the respondents, he uses the app 81 times while the rest are around 31 times. There might be insider bias because the background of these respondents is not transparent. There is no survey questions indicating their demography and background.
 
-People tend to sleep less in April than May. According to News in Health getting enough sleep is crucial for leading a healthy lifestyle. We can use this opportunity to encourage Bellabeat users to sleep earlier and add it to our marketing strategy.
+* People tend to sleep less in April than May. According to News in Health getting enough sleep is crucial for leading a healthy lifestyle. We can use this opportunity to encourage Bellabeat users to sleep earlier and add it to our marketing strategy.
 
-How could these trends influence Bellabeat's Marketing Strategy?
+### How could these trends influence Bellabeat's Marketing Strategy?
 
-Bellabeat can use social media to increase healthy life awareness (Instagram, Tiktok, etc). They can also encourage existing Bellabeat users to follow them on socials so they can participate in limited time events run by Bellabeat like:Updating the socials more on weekdays (preferrably after work) to invite users to exercise through Shorts and Reel
+* Bellabeat can use social media to increase healthy life awareness (Instagram, Tiktok, etc). They can also encourage existing Bellabeat users to follow them on socials so they can participate in limited time events run by Bellabeat like:Updating the socials more on weekdays (preferrably after work) to invite users to exercise through Shorts and Reel
 
-Since most exisiting Bellabeat users spend the most sedentary minutes, Bellabeat can implement a relaxing workout activity for a community gathering. They can make a walking marathon event (because walking is a sedentary activity) and encourage Bellabeat users to upload their experience in socials.
+* Since most exisiting Bellabeat users spend the most sedentary minutes, Bellabeat can implement a relaxing workout activity for a community gathering. They can make a walking marathon event (because walking is a sedentary activity) and encourage Bellabeat users to upload their experience in socials.
 
-Implement a gamification feature into Bellabeat Smartwatch's app to encourage users to be active. It can remind users daily to workout. For example, if a user reached a certain number of active minutes per day, they will get points. These points can then be exchanged to get discount on Bellabeat's existing products and other benefits. Also, if the user shares their achievements on socials, they will get more points too! They can also apply this gamification method to encourage users to sleep earlier too.
+* Implement a gamification feature into Bellabeat Smartwatch's app to encourage users to be active. It can remind users daily to workout. For example, if a user reached a certain number of active minutes per day, they will get points. These points can then be exchanged to get discount on Bellabeat's existing products and other benefits. Also, if the user shares their achievements on socials, they will get more points too! They can also apply this gamification method to encourage users to sleep earlier too.
 
-How can we improve this analysis in the future?
+### How can we improve this analysis in the future?
 
-Instead of taking data from a third party, Bellabeat should try find data using a primary source like spreading their own survey to a group of targeted respondents.
+* Instead of taking data from a third party, Bellabeat should try find data using a primary source like spreading their own survey to a group of targeted respondents.
 
-In the survey, try adding 'background questions' like age, income, job, and lifestyle questions to have a clear idea on the customer segment in the market.
+* In the survey, try adding 'background questions' like age, income, job, and lifestyle questions to have a clear idea on the customer segment in the market.
 
-We need more respondents in the survey to have a more less skewed data that have lower standard deviation.
+* We need more respondents in the survey.
 
