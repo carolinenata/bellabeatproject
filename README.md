@@ -2,7 +2,7 @@
 
 This is the final project from the course I took from Coursera (Google Data Analytics Course). For this project, I was assigned to be a data analyst for a fitness smartwatch company, Bellabeat.
 
- You can view my SQL queries [here](https://github.com/carolinenata/bellabeatproject/blob/main/BellabeatSQL.sql).
+ You can view my SQL queries [here](https://github.com/carolinenata/sql_smartwatchanalysis/blob/main/sql.queries).
 
 ## Background
 
