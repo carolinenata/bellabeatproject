@@ -125,7 +125,7 @@ Here are some notable analysis we found:
 
 I also perform statistical calculations(mean, min, max, standard deviation) to identify more trends. To display the results more conscisely, I use the Form Editor in MySQL. 
 
-<img width="462" alt="Screen Shot 2023-09-11 at 1 00 00 PM" src="https://github.com/carolinenata/portfolio/assets/138493962/ce2a2a4a-0dd2-435a-a2d0-40e975614902">
+<img width="310" alt="standard deviation" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/7cb17877-face-4803-a3aa-7760d7c0dcbf">
 
 
 From the calculations, we can conclude that:
@@ -142,19 +142,19 @@ In this step, we create visualizations to display our findings. We are using Tab
 
 **Most Popular day for Users**
 
-<img width="730" alt="Screen Shot 2023-09-11 at 12 59 33 PM" src="https://github.com/carolinenata/portfolio/assets/138493962/955604ae-9fda-40d1-9ac5-230781124784">
+<img width="739" alt="days of the week total steps" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/3c67d86d-52f5-41a9-be48-a79d370499f4">
 
 From this chart, we can conclude that Tuesday is the most active day for the users because they have the highest total minutes and total distance while Sunday is the least active day.
 
 **Sleeping Hours Overweight vs Normal Weight** 
 
-<img width="656" alt="Screen Shot 2023-09-11 at 12 59 36 PM" src="https://github.com/carolinenata/portfolio/assets/138493962/6f5bd5c2-ce03-4945-a269-048375cdaa16">
+<img width="704" alt="total steps with sleeping hours" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/babdf140-aa04-4e7c-bfeb-c9540b542784">
 
 From this chart, we can conclude that overweight people tend to sleep more than those with healthy weight. Although, the difference is not that far.
 
 **Total Minutes Overweight vs Underweight**
 
-<img width="506" alt="Screen Shot 2023-09-11 at 12 59 40 PM" src="https://github.com/carolinenata/portfolio/assets/138493962/65a9c225-249f-4fed-bdf7-e56a96809652">
+<img width="376" alt="Screen Shot 2023-10-09 at 7 39 22 PM" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/e1e8ddd0-8d21-44ed-bf30-8d83ae4b860b">
 
 Although overweight people slept more, they are also more active than healthy weight people. we can conclude that the overweight people have a strong desire to exercise and trying to improve their lifestyl
 
