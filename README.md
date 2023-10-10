@@ -148,7 +148,7 @@ From this chart, we can conclude that Tuesday is the most active day for the use
 
 **Sleeping Hours Overweight vs Normal Weight** 
 
-<img width="708" alt="Screen Shot 2023-10-09 at 8 45 21 PM" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/ae66d19f-1566-4456-8882-31c26a328067">
+<img width="660" alt="Screen Shot 2023-10-09 at 8 46 35 PM" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/a74eea30-3b59-4108-8e8a-0cf23ac0d0a6">
 
 From this chart, we can conclude that overweight people tend to sleep more than those with healthy weight. Although, the difference is not that far.
 
