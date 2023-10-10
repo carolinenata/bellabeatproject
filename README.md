@@ -154,7 +154,7 @@ From this chart, we can conclude that overweight people tend to sleep more than 
 
 **Total Minutes Overweight vs Underweight**
 
-<img width="376" alt="Screen Shot 2023-10-09 at 7 39 22 PM" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/e1e8ddd0-8d21-44ed-bf30-8d83ae4b860b">
+<img width="560" alt="total minutes underweight overweight" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/d4c309f6-df6e-4c18-9a2f-14493c7b7cb0">
 
 Although overweight people slept more, they are also more active than healthy weight people. we can conclude that the overweight people have a strong desire to exercise and trying to improve their lifestyl
 
