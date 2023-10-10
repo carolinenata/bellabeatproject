@@ -142,13 +142,13 @@ In this step, we create visualizations to display our findings. We are using Tab
 
 **Most Popular day for Users**
 
-<img width="739" alt="days of the week total steps" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/3c67d86d-52f5-41a9-be48-a79d370499f4">
+<img width="686" alt="Screen Shot 2023-10-09 at 8 45 17 PM" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/e736b952-b211-41fd-a686-38b7b2752944">
 
 From this chart, we can conclude that Tuesday is the most active day for the users because they have the highest total minutes and total distance while Sunday is the least active day.
 
 **Sleeping Hours Overweight vs Normal Weight** 
 
-<img width="704" alt="total steps with sleeping hours" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/babdf140-aa04-4e7c-bfeb-c9540b542784">
+<img width="708" alt="Screen Shot 2023-10-09 at 8 45 21 PM" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/ae66d19f-1566-4456-8882-31c26a328067">
 
 From this chart, we can conclude that overweight people tend to sleep more than those with healthy weight. Although, the difference is not that far.
 
@@ -160,19 +160,19 @@ Although overweight people slept more, they are also more active than healthy we
 
 **Calories burned per hour Overweight vs Normal Weight**
 
-<img width="730" alt="Screen Shot 2023-09-11 at 12 59 43 PM" src="https://github.com/carolinenata/portfolio/assets/138493962/2a0d3c9c-7fda-4dfa-b70f-589bc13874e0">
+<img width="731" alt="Screen Shot 2023-10-09 at 8 45 25 PM" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/1ded50a4-85c1-48a5-89af-a7cf264a817d">
 
 From this line chart, we can conclude that overweight people attempt to burn more calories than normal weight people. These two groups also peak at 18:00, which is after work hours. We can conclude that these two groups start being more active after works (Example, going to the gym after work).
 
 **Sleeping Hour April Vs May**
 
-<img width="709" alt="Screen Shot 2023-09-11 at 12 59 46 PM" src="https://github.com/carolinenata/portfolio/assets/138493962/8eaa5ad1-5f11-441e-ba59-9f16b1962eae">
+<img width="708" alt="Screen Shot 2023-10-09 at 8 45 21 PM" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/26696e92-a675-44c3-8df1-5024e4c64421">
 
 Bellabeat users slept more on April than May. We can assume they got more busy during that time period or they stop tracking their sleep properly using the smartwatch because they got bored.
 
 **Bellabeat User Activity**
 
-<img width="734" alt="Screen Shot 2023-09-11 at 12 59 51 PM" src="https://github.com/carolinenata/portfolio/assets/138493962/34124810-2d79-4fda-b0c6-8ab782c12490">
+<img width="737" alt="Screen Shot 2023-10-09 at 8 45 35 PM" src="https://github.com/carolinenata/sql_smartwatchanalysis/assets/138493962/dea6ab01-736d-4b77-8ec8-d8a329d22a97">
 
 Here are the users of Bellabeat. Surprisingly, user 81 is the most active out of the bunch. In fact, so active that his number is an outlier. We can assume either he is a big fan of Bellabeat or an insider bias because aside from the smartwatch activities, the survey does not include any inquiries about their demographic background (age, occupation, job, income level etc).
 
